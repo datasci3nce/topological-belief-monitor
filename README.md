@@ -32,4 +32,4 @@ All figures from the paper are in the [`figures/`](./figures) folder:
 The raw code and Jupyter notebooks used to generate these results are available from the author upon request, or can be reconstructed from the descriptions in the paper. For the RNN foundation, see the sister repository linked above.
 
 ## 📬 Contact
-Kishore Kumar Mariappan – [your email / website / GitHub profile]
+Kishore Kumar Mariappan – kishore.mariappan.91[at]gmail[dot]com
