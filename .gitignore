@@ -1,0 +1,19 @@
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# HuggingFace & Unsloth Outputs
+outputs/
+checkpoint-*/
+*.safetensors
+*.bin
+
+# Caches & Activations
+*.npy

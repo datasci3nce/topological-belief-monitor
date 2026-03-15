@@ -1,0 +1,10 @@
+torch>=2.1.0
+transformers==4.46.3
+trl==0.24.0
+bitsandbytes==0.41.1
+accelerate
+datasets
+scikit-learn==1.3.2
+matplotlib
+numpy
+tqdm
